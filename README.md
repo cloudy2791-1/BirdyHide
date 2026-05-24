@@ -2,11 +2,6 @@
 
 将任意文件加密后藏入图片，外观无异常，取回时需密码。完全运行在您的浏览器中，不上传任何数据，关闭页面即销毁所有痕迹。
 
-[![完全离线](https://img.shields.io/badge/离线-是-brightgreen)]()
-[![加密标准](https://img.shields.io/badge/加密-AES--256--GCM-blue)]()
-[![隐写能力](https://img.shields.io/badge/隐写-自适应LSB_|_多图分卷_|_散布模式-orange)]()
-[![开源协议](https://img.shields.io/badge/license-MIT-yellow)]()
-
 ## 为什么选择 BirdyHide？
 
 - 军事级加密：内核使用 AES-256-GCM 认证加密，密钥通过 PBKDF2 派生（迭代次数可选 25 万 ~ 100 万次），即使图片被公开，没有密码也无法解密。
