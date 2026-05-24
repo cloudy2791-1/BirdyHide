@@ -88,7 +88,8 @@ index.html   # 单文件应用，包含所有 HTML/CSS/JS
 
 ## 许可证
 
-MIT License © Birdy
+Copyright (c) 2026 Birdy
+
 详见 LICENSE 文件。
 
 ## 致谢
