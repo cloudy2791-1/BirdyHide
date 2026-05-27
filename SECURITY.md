@@ -1,5 +1,7 @@
 # Security Policy
 
+本文档说明了 Birdy 项目的安全策略及漏洞报告流程，感谢您为项目安全做出的贡献。
+
 ## Reporting a Vulnerability
 
 我们非常重视 Birdy 的安全。如果您发现安全漏洞，请**负责任地私密报告**。
