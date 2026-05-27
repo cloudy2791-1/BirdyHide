@@ -1,16 +1,5 @@
 # Security Policy
 
-## Supported Versions
-
-Birdy 是纯浏览器端单文件工具，没有传统语义版本号。
-
-| Version              | Supported          | 备注 |
-|----------------------|--------------------|------|
-| Latest (main 分支)   | :white_check_mark: | 唯一活跃维护版本 |
-| 任何历史 tag / fork  | :x:                | 不提供安全更新 |
-
----
-
 ## Reporting a Vulnerability
 
 我们非常重视 Birdy 的安全。如果您发现安全漏洞，请**负责任地私密报告**。
@@ -26,7 +15,6 @@ Birdy 是纯浏览器端单文件工具，没有传统语义版本号。
 - 受影响组件（例如：zTXt 解析、AES-GCM 加密、密码强度检查、大文件处理等）
 - 完整复现步骤
 - 浏览器版本和操作系统
-- PoC 代码（如果安全分享）
 - 潜在影响评估
 
 ---
